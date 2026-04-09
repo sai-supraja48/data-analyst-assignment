@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "hotel_clinic.db",
+            "database": "hotel_clinic"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "hotel_clinic.db",
+            "database": "hotel_clinic.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
