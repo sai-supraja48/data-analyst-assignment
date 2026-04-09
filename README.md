@@ -69,6 +69,13 @@ Data_Analyst_Assignment/
 
 ### ✅ 3. Spreadsheet Analysis (Excel)
 
+🔗 Google Sheets Link:
+https://docs.google.com/spreadsheets/d/1Z3Y8iXPSDcZxAWSoJ7n7VxQwdqcVhqcf/edit?usp=sharing&ouid=100708512332132877227&rtpof=true&sd=true
+
+📁 Excel File:
+Located in the /Spreadsheets folder as Ticket_Analysis.xlsx
+
+
 #### 🔹 Data Preparation
 
 * Created two sheets:
